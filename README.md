@@ -21,7 +21,6 @@ Criar uma ferramenta simples e útil que recomende doramas com base em:
 - 🐘 `dplyr` — manipulação de dados
 - 📊 `ggplot2` — visualização
 - 📚 `readr` — leitura de CSVs
-- 📱 `shiny` (opcional) — interface interativa
 - 💖 `stringr` — limpeza de texto
 - 🗂️ Arquivo `.csv` com base de dados de doramas
 
